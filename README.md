@@ -7,11 +7,11 @@ Analysis of that data can help determine if bike-sharing would be successful in 
 ### Purpose
 Tableau is a powerful tool that allows for easy data visualizations.
 With Tableau I created a CitiBike Bike-Sharing story from a csv file of data.
-[link to dashboard](https://public.tableau.com/app/profile/summer.bell/viz/SummerBell-Challenge14/CitiBikeStory?publish=yes)
+Her is the [link to dashboard](https://public.tableau.com/app/profile/summer.bell/viz/SummerBell-Challenge14/CitiBikeStory?publish=yes)
 
 ## Results
 -  Customer Type:
-[Customer_Type.PNG](/Customer_Type.PNG)
+[Customer_Type.PNG](Customer_Type.PNG)
 	- Subscribers account for the most bike trips. 
 
 -  Checkout Times for Users:
