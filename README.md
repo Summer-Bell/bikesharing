@@ -15,27 +15,27 @@ Her is the [link to dashboard](https://public.tableau.com/app/profile/summer.bel
 	- Subscribers account for the most bike trips. 
 
 -  Checkout Times for Users:
-
+[Checkout_Times_for_Users.PNG](Checkout_Times_for_Users.PNG)
 	- Most bike trips are under 1 hour. 
 
 -  Checkout Times by Gender Users:
-
+[Checkout_Times_by_Gender_Users.PNG](Checkout_Times_by_Gender_Users.PNG)
 	- Males make up the highest number of riders. 
 	
 -  August Peak Hours:
-
+[August_Peak.PNG](August_Peak.PNG)
 	- Bike usage is highest during rush hour.
 	
 -  Trips by Weekday per Hour:
-
+[Trips_WD.PNG](Trips_WD.PNG)
 	- Weekends have steady bike usage.
 	
 -  Trips by Gender (Weekday per Hours):
-
+[Trips_Gender.PNG](Trips_Gender.PNG)
 	- Data indicates males are utilizing bikes to ride to work.
 	
 -  User Trips by Gender by Weekday:
-
+[User_Trip_Gender.PNG](User_Trip_Gender.PNG)
 	- Males make up the majority of subscribers.
 
 
